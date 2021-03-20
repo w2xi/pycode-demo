@@ -1,0 +1,23 @@
+[
+{"city_name": "\u682a\u6d32", "date": "12\u670801\u65e5", "week": "\u661f\u671f\u4e94", "img": "/static/wap2018/ico1/b1.png", "temperature": "5-8", "weather": "\u591a\u4e91", "wind": "\u5317\u98ce"},
+{"city_name": "\u682a\u6d32", "date": "12\u670802\u65e5", "week": "\u661f\u671f\u516d", "img": "/static/wap2018/ico1/b0.png", "temperature": "6-14", "weather": "\u6674", "wind": "\u5317\u98ce"},
+{"city_name": "\u682a\u6d32", "date": "12\u670803\u65e5", "week": "\u661f\u671f\u65e5", "img": "/static/wap2018/ico1/b0.png", "temperature": "8-16", "weather": "\u6674", "wind": "\u5317\u98ce"},
+{"city_name": "\u682a\u6d32", "date": "12\u670804\u65e5", "week": "\u661f\u671f\u4e00", "img": "/static/wap2018/ico1/b0.png", "temperature": "8-14", "weather": "\u6674", "wind": "\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670801\u65e5", "week": "\u661f\u671f\u4e94", "img": "/static/wap2018/ico1/b2.png", "temperature": "5-9", "weather": "\u9634", "wind": "\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670802\u65e5", "week": "\u661f\u671f\u516d", "img": "/static/wap2018/ico1/b0.png", "temperature": "7-13", "weather": "\u6674", "wind": "\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670803\u65e5", "week": "\u661f\u671f\u65e5", "img": "/static/wap2018/ico1/b0.png", "temperature": "8-16", "weather": "\u6674", "wind": "\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670804\u65e5", "week": "\u661f\u671f\u4e00", "img": "/static/wap2018/ico1/b1.png", "temperature": "9-14", "weather": "\u591a\u4e91", "wind": "\u5317\u98ce"},
+{"city_name": "\u682a\u6d32", "date": "12\u670805\u65e5", "week": "\u661f\u671f\u4e8c", "img": "/static/wap2018/ico1/b1.png", "temperature": "4-12", "weather": "\u591a\u4e91", "wind": "\u5317\u98ce"},
+{"city_name": "\u682a\u6d32", "date": "12\u670806\u65e5", "week": "\u661f\u671f\u4e09", "img": "/static/wap2018/ico1/b1.png", "temperature": "4-13", "weather": "\u591a\u4e91", "wind": "\u4e1c\u5317\u98ce"},
+{"city_name": "\u682a\u6d32", "date": "12\u670807\u65e5", "week": "\u661f\u671f\u56db", "img": "/static/wap2018/ico1/b2.png", "temperature": "5-13", "weather": "\u9634", "wind": "\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670805\u65e5", "week": "\u661f\u671f\u4e8c", "img": "/static/wap2018/ico1/b1.png", "temperature": "9-15", "weather": "\u591a\u4e91", "wind": "\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670806\u65e5", "week": "\u661f\u671f\u4e09", "img": "/static/wap2018/ico1/b1.png", "temperature": "9-14", "weather": "\u591a\u4e91", "wind": "\u4e1c\u5317\u98ce"},
+{"city_name": "\u957f\u6c99", "date": "12\u670807\u65e5", "week": "\u661f\u671f\u56db", "img": "/static/wap2018/ico1/b2.png", "temperature": "8-14", "weather": "\u9634", "wind": "\u5317\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670801\u65e5", "week": "\u661f\u671f\u4e94", "img": "/static/wap2018/ico1/b0.png", "temperature": "7-12", "weather": "\u6674", "wind": "\u5317\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670802\u65e5", "week": "\u661f\u671f\u516d", "img": "/static/wap2018/ico1/b1.png", "temperature": "7-14", "weather": "\u591a\u4e91", "wind": "\u4e1c\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670803\u65e5", "week": "\u661f\u671f\u65e5", "img": "/static/wap2018/ico1/b8.png", "temperature": "9-16", "weather": "\u96e8", "wind": "\u4e1c\u5317\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670804\u65e5", "week": "\u661f\u671f\u4e00", "img": "/static/wap2018/ico1/b1.png", "temperature": "7-12", "weather": "\u591a\u4e91", "wind": "\u5317\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670805\u65e5", "week": "\u661f\u671f\u4e8c", "img": "/static/wap2018/ico1/b1.png", "temperature": "6-10", "weather": "\u591a\u4e91", "wind": "\u897f\u5317\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670806\u65e5", "week": "\u661f\u671f\u4e09", "img": "/static/wap2018/ico1/b1.png", "temperature": "6-12", "weather": "\u591a\u4e91", "wind": "\u897f\u5317\u98ce"},
+{"city_name": "\u4e0a\u6d77", "date": "12\u670807\u65e5", "week": "\u661f\u671f\u56db", "img": "/static/wap2018/ico1/b2.png", "temperature": "7-13", "weather": "\u9634", "wind": "\u5317\u98ce"}
+]
